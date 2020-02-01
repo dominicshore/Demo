@@ -1,3 +1,6 @@
-This is my second version of my first readme file.
+# Major title because of the hash symbol
+## Minor heading
 
-And this is my first edit to my readme file, hopefully it gets tracked by git!
+This is my **second** version of my first readme file.
+
+And this is my _first_ edit to my readme file, hopefully it gets tracked by git!
